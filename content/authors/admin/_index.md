@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Earth Scientists
+role: Earth Scientist
 
 # Organizations/Affiliations
 organizations:
