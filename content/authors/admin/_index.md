@@ -72,6 +72,4 @@ user_groups:
 
 Gautam Bisht is a earth scientists at the Pacific Northwest National Laboratory. 
 His research interests include land surface modeling, numerical methods, and HPC. 
-#He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of
-#self-organizing robots, and mobile sensor networks.
 
